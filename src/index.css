@@ -7,10 +7,16 @@ Dark green: #28b485
 
 /* Header component */
 
-* {
+*,
+*::before,
+*::after {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
 }
 
 body {
@@ -21,10 +27,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
-  font-size: 16px;
+  /* font-size: 16px; */
   line-height: 1.7;
   color: #777777;
-  padding: 30px;
+  padding: 3rem;
+  box-sizing: border-box;
 }
 
 code {

@@ -20,12 +20,12 @@ header {
 
 .logo-box {
   position: absolute;
-  top: 40px;
-  left: 40px;
+  top: 4rem;
+  left: 4rem;
 }
 
 .logo {
-  height: 35px;
+  height: 3.5rem;
 }
 
 .text-box {
@@ -41,22 +41,22 @@ header {
   display: flex;
   flex-direction: column;
   text-align: center;
-  margin-bottom: 60px;
+  margin-bottom: 6rem;
   backface-visibility: hidden;
 }
 
 .heading-primary-main {
-  font-size: 60px;
+  font-size: 6rem;
   font-weight: 400;
-  letter-spacing: 5px;
+  letter-spacing: 0.5rem;
 
   animation: moveInLeft 2s ease-out;
 }
 
 .heading-primary-sub {
-  font-size: 20px;
+  font-size: 2rem;
   font-weight: 700;
-  letter-spacing: 15px;
+  letter-spacing: 1.5rem;
 
   animation: moveInRight 2s ease-out;
 }
@@ -64,10 +64,10 @@ header {
 @keyframes moveInLeft {
   0% {
     opacity: 0;
-    transform: translateX(-100px);
+    transform: translateX(-10rem);
   }
   80% {
-    transform: translateX(10px);
+    transform: translateX(1rem);
   }
   100% {
     opacity: 1;
@@ -78,10 +78,10 @@ header {
 @keyframes moveInRight {
   0% {
     opacity: 0;
-    transform: translateX(100px);
+    transform: translateX(10rem);
   }
   80% {
-    transform: translateX(-10px);
+    transform: translateX(-1rem);
   }
   100% {
     opacity: 1;
@@ -92,7 +92,7 @@ header {
 @keyframes moveInBottom {
   0% {
     opacity: 0;
-    transform: translateY(30px);
+    transform: translateY(3rem);
   }
 
   100% {
@@ -106,13 +106,13 @@ header {
 }
 
 .btn {
-  font-size: 12px;
+  font-size: 1.2rem;
   text-transform: uppercase;
   text-decoration: none;
-  padding: 15px 40px;
+  padding: 1.5rem 4rem;
   display: inline-block;
   text-align: center;
-  border-radius: 100px;
+  border-radius: 10rem;
   transition: all 0.2s;
   position: relative;
   outline: none;
@@ -120,13 +120,13 @@ header {
 }
 
 .btn:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  transform: translateY(-0.3rem);
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
 }
 
 .btn:focus {
-  transform: translateY(-1px);
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  transform: translateY(-0.1rem);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
 }
 
 .btn-white {
@@ -139,7 +139,7 @@ header {
   display: inline-block;
   height: 100%;
   width: 100%;
-  border-radius: 100px;
+  border-radius: 10rem;
   position: absolute;
   top: 0;
   left: 0;
