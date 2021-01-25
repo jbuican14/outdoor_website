@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/outdoor_website/static/css/main.d448cc4f.chunk.css",
-    "main.js": "/outdoor_website/static/js/main.b7cd00da.chunk.js",
-    "main.js.map": "/outdoor_website/static/js/main.b7cd00da.chunk.js.map",
+    "main.css": "/outdoor_website/static/css/main.d8751bdd.chunk.css",
+    "main.js": "/outdoor_website/static/js/main.e75e6dfd.chunk.js",
+    "main.js.map": "/outdoor_website/static/js/main.e75e6dfd.chunk.js.map",
     "runtime-main.js": "/outdoor_website/static/js/runtime-main.aec9e3ce.js",
     "runtime-main.js.map": "/outdoor_website/static/js/runtime-main.aec9e3ce.js.map",
     "static/js/2.389793e1.chunk.js": "/outdoor_website/static/js/2.389793e1.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.efee1405.chunk.js": "/outdoor_website/static/js/3.efee1405.chunk.js",
     "static/js/3.efee1405.chunk.js.map": "/outdoor_website/static/js/3.efee1405.chunk.js.map",
     "index.html": "/outdoor_website/index.html",
-    "static/css/main.d448cc4f.chunk.css.map": "/outdoor_website/static/css/main.d448cc4f.chunk.css.map",
+    "static/css/main.d8751bdd.chunk.css.map": "/outdoor_website/static/css/main.d8751bdd.chunk.css.map",
     "static/js/2.389793e1.chunk.js.LICENSE.txt": "/outdoor_website/static/js/2.389793e1.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/outdoor_website/static/media/hero.799641eb.jpg"
+    "static/media/App.scss": "/outdoor_website/static/media/hero.799641eb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.aec9e3ce.js",
     "static/js/2.389793e1.chunk.js",
-    "static/css/main.d448cc4f.chunk.css",
-    "static/js/main.b7cd00da.chunk.js"
+    "static/css/main.d8751bdd.chunk.css",
+    "static/js/main.e75e6dfd.chunk.js"
   ]
 }
