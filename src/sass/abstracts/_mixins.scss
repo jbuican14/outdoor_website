@@ -1,0 +1,12 @@
+@mixin clearfix {
+  &::after {
+    content: '';
+    clear: both;
+    display: table;
+  }
+}
+
+@mixin style-link-text {
+  text-decoration: none;
+  text-transform: uppercase;
+}

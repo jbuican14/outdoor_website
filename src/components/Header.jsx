@@ -1,9 +1,18 @@
 import React from 'react';
 
 import logoWhite from '../img/logo-white.png';
+import heroHeader from '../img/hero.jpg';
+
 const Header = () => {
   return (
-    <header className="header">
+    <header
+      className="header"
+      style={{
+        background: `linear-gradient(to right, rgba(175, 236, 164, 0.5), rgba(88, 163, 138, 0.5)), url(${heroHeader})`,
+        backgroundPosition: 'top',
+        backgroundSize: 'cover',
+      }}
+    >
       <div className="header__logo-box">
         <img src={logoWhite} alt="Logo White" className="header__logo" />
       </div>
