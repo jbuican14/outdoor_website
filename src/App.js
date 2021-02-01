@@ -2,13 +2,13 @@ import './sass/index.scss';
 
 // import CustomGrid from './components/CustomGrid';
 import Header from './components/Header';
-import MainPage from './components/MainPage';
+import AboutPage from './components/AboutPage';
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <MainPage />
+      <AboutPage />
       {/* <CustomGrid /> */}
     </div>
   );
