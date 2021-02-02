@@ -31,10 +31,16 @@ const AboutPage = () => {
               Live adventurous
             </h3>
             <p className="paragraph">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laboriosam, odio possimus quis molestias assumenda omnis illum
-              fuga nisi iure cum amet fugiat ut temporibus quae saepe! Similique
-              dolores aut praesentium.
+              molestias nostrum neque modi quos magnam reiciendis eum sapiente
+              est repudiandae officiis ducimus? Omnis, tempora! Eos praesentium
+              alias perferendis recusandae nostrum soluta corrupti, accusamus
+              saepe non eius quae nam. Modi voluptatum ipsam, doloribus delectus
+              laborum labore hic. Eligendi, adipisci! Necessitatibus eius facere
+              placeat error facilis. Recusandae, non vero maxime sapiente nemo
+              possimus numquam consequatur modi earum nobis similique deserunt
+              laboriosam quibusdam repellendus autem corporis nesciunt! Maxime
+              soluta harum, impedit excepturi voluptatibus commodi totam unde
+              necessitatibus?
             </p>
 
             <Button />
