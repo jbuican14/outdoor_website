@@ -14,7 +14,7 @@ const FeaturesPage = () => {
     >
       <div className="row">
         <div className="col-1-of-4">
-          <div class="feature-box">
+          <div className="feature-box">
             <i className="feature-box__icon icon-basic-world"></i>
             <h3 className="heading-tertiary u-margin-bottom-small">
               Explore the world
@@ -28,7 +28,7 @@ const FeaturesPage = () => {
         </div>
 
         <div className="col-1-of-4">
-          <div class="feature-box">
+          <div className="feature-box">
             <i className="feature-box__icon icon-basic-compass"></i>
             <h3 className="heading-tertiary u-margin-bottom-small">
               Meet nature
@@ -42,7 +42,7 @@ const FeaturesPage = () => {
         </div>
 
         <div className="col-1-of-4">
-          <div class="feature-box">
+          <div className="feature-box">
             <i className="feature-box__icon icon-basic-map"></i>
             <h3 className="heading-tertiary u-margin-bottom-small">
               Find a way
@@ -56,7 +56,7 @@ const FeaturesPage = () => {
         </div>
 
         <div className="col-1-of-4">
-          <div class="feature-box">
+          <div className="feature-box">
             <i className="feature-box__icon icon-basic-heart"></i>
             <h3 className="heading-tertiary u-margin-bottom-small">
               Live a healthier life
