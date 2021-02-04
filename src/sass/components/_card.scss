@@ -21,7 +21,7 @@
 
     &--back {
       background-color: $color-white;
-      transform: rotateY(180deg);
+      transform: rotateY(-180deg);
 
       &-1 {
         background-image: linear-gradient(
