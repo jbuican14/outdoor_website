@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/outdoor_website/static/css/main.e5fdf9ea.chunk.css",
-    "main.js": "/outdoor_website/static/js/main.349cb625.chunk.js",
-    "main.js.map": "/outdoor_website/static/js/main.349cb625.chunk.js.map",
+    "main.css": "/outdoor_website/static/css/main.01fa30ef.chunk.css",
+    "main.js": "/outdoor_website/static/js/main.577ba704.chunk.js",
+    "main.js.map": "/outdoor_website/static/js/main.577ba704.chunk.js.map",
     "runtime-main.js": "/outdoor_website/static/js/runtime-main.333b8f86.js",
     "runtime-main.js.map": "/outdoor_website/static/js/runtime-main.333b8f86.js.map",
     "static/js/2.8a96a13b.chunk.js": "/outdoor_website/static/js/2.8a96a13b.chunk.js",
@@ -10,18 +10,21 @@
     "static/js/3.093b48f9.chunk.js": "/outdoor_website/static/js/3.093b48f9.chunk.js",
     "static/js/3.093b48f9.chunk.js.map": "/outdoor_website/static/js/3.093b48f9.chunk.js.map",
     "index.html": "/outdoor_website/index.html",
-    "static/css/main.e5fdf9ea.chunk.css.map": "/outdoor_website/static/css/main.e5fdf9ea.chunk.css.map",
+    "static/css/main.01fa30ef.chunk.css.map": "/outdoor_website/static/css/main.01fa30ef.chunk.css.map",
     "static/js/2.8a96a13b.chunk.js.LICENSE.txt": "/outdoor_website/static/js/2.8a96a13b.chunk.js.LICENSE.txt",
     "static/media/hero.799641eb.jpg": "/outdoor_website/static/media/hero.799641eb.jpg",
     "static/media/nat-1-large.c8bf4f96.jpg": "/outdoor_website/static/media/nat-1-large.c8bf4f96.jpg",
     "static/media/nat-2-large.d9509c96.jpg": "/outdoor_website/static/media/nat-2-large.d9509c96.jpg",
     "static/media/nat-3-large.bfe4e56a.jpg": "/outdoor_website/static/media/nat-3-large.bfe4e56a.jpg",
-    "static/media/nat-4.4a2d692f.jpg": "/outdoor_website/static/media/nat-4.4a2d692f.jpg"
+    "static/media/nat-4.4a2d692f.jpg": "/outdoor_website/static/media/nat-4.4a2d692f.jpg",
+    "static/media/nat-5.d243fb89.jpg": "/outdoor_website/static/media/nat-5.d243fb89.jpg",
+    "static/media/nat-6.118f2fc3.jpg": "/outdoor_website/static/media/nat-6.118f2fc3.jpg",
+    "static/media/nat-7.bfd2d18e.jpg": "/outdoor_website/static/media/nat-7.bfd2d18e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.333b8f86.js",
     "static/js/2.8a96a13b.chunk.js",
-    "static/css/main.e5fdf9ea.chunk.css",
-    "static/js/main.349cb625.chunk.js"
+    "static/css/main.01fa30ef.chunk.css",
+    "static/js/main.577ba704.chunk.js"
   ]
 }
